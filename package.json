@@ -1,6 +1,6 @@
 {
   "name": "@mtourj/react-native-image-crop",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "description": "A dynamic image cropping component with gestures and web support",
   "main": "build/index.js",
   "author": "Mohammad Tourjoman <mtourjoman01@hotmail.com>",
